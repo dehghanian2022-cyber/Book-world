@@ -426,3 +426,383 @@ hr.style-seven:before {
 
 
 }
+/* =========================
+   BOOK CATEGORIES
+========================= */
+
+
+aside {
+
+    width: 300px;
+
+    max-width: 90%;
+
+    margin: 70px auto;
+
+    padding: 25px;
+
+
+    background-color: #E8D2B5;
+
+
+    border: 2px solid #8B6245;
+
+    border-radius: 20px;
+
+
+    box-shadow:
+    0 8px 20px rgba(75,46,30,0.2);
+
+
+    text-align: center;
+
+}
+
+
+
+.book {
+
+
+    color: #FFF8E7;
+
+
+    background-color: #4B2E1E;
+
+
+    padding: 15px;
+
+
+    border-radius: 12px;
+
+
+    font-size: 28px;
+
+}
+
+
+
+aside ul {
+
+
+    list-style: none;
+
+
+    padding: 0;
+
+
+    margin-top: 20px;
+
+
+}
+
+
+
+aside li {
+
+
+    background-color: #F5EBDD;
+
+
+    color: #4B2E1E;
+
+
+    margin: 10px 0;
+
+
+    padding: 12px;
+
+
+    border-radius: 10px;
+
+
+    font-size: 19px;
+
+
+    transition: 0.3s ease;
+
+
+}
+
+
+
+aside li:hover {
+
+
+    background-color: #D2B48C;
+
+
+    transform: translateX(8px);
+
+
+}
+
+
+
+
+
+/* =========================
+   BEST SELLERS
+========================= */
+
+
+.best {
+
+
+    width: 300px;
+
+
+    max-width: 90%;
+
+
+    margin: 60px auto 20px;
+
+
+    padding: 15px 25px;
+
+
+    text-align: center;
+
+
+    background-color: #E8D2B5;
+
+
+    color: #4B2E1E;
+
+
+    font-size: 40px;
+
+
+    border: 2px solid #A67C52;
+
+
+    border-radius: 20px;
+
+
+}
+
+
+
+
+
+/* =========================
+   TABLE
+========================= */
+
+
+table {
+
+
+    width: 80%;
+
+
+    margin: 50px auto;
+
+
+    border-collapse: collapse;
+
+
+    background-color: #F5EBDD;
+
+
+    border-radius: 15px;
+
+
+    overflow: hidden;
+
+
+    box-shadow:
+
+    0 8px 20px rgba(75,46,30,0.2);
+
+
+}
+
+
+
+
+th {
+
+
+    background-color: #4B2E1E;
+
+
+    color: #FFF8E7;
+
+
+    padding: 18px;
+
+
+    font-size: 22px;
+
+
+}
+
+
+
+td {
+
+
+    color: #4B2E1E;
+
+
+    padding: 15px;
+
+
+    text-align: center;
+
+
+    border-bottom: 1px solid #C8A98D;
+
+
+    font-size: 18px;
+
+
+}
+
+
+
+tr:nth-child(even) {
+
+
+    background-color: #E8D2B5;
+
+
+}
+
+
+
+tr:hover {
+
+
+    background-color: #D2B48C;
+
+
+}
+
+
+
+
+
+
+
+/* =========================
+   WHY CHOOSE US
+========================= */
+
+
+.why {
+
+
+    width: 500px;
+
+
+    max-width: 90%;
+
+
+    margin: 60px auto;
+
+
+    padding: 30px;
+
+
+    background-color: #FAEBDD;
+
+
+    border: 2px solid #8B6245;
+
+
+    border-radius: 25px;
+
+
+    box-shadow:
+
+    0 8px 20px rgba(75,46,30,0.2);
+
+
+    transition: 0.4s ease;
+
+
+}
+
+
+
+.why:hover {
+
+
+    transform: translateY(-8px);
+
+
+}
+
+
+
+.us {
+
+
+    text-align: center;
+
+
+    font-size: 40px;
+
+
+    color: #6F4528;
+
+
+}
+
+
+
+.us1 {
+
+
+    padding-left: 35px;
+
+
+}
+
+
+
+.us1 li {
+
+
+    background-color: #DEB887;
+
+
+    color: #6F4528;
+
+
+    padding: 15px;
+
+
+    margin: 12px 0;
+
+
+    border: 1px solid #CD853F;
+
+
+    border-radius: 12px;
+
+
+    font-size: 19px;
+
+
+    transition: 0.3s ease;
+
+
+}
+
+
+
+.us1 li:hover {
+
+
+    background-color: #CD853F;
+
+
+    color: #2F1B10;
+
+
+    transform: translateX(8px);
+
+
+}
